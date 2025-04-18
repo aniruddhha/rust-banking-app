@@ -1,7 +1,7 @@
 use crate::bank_db::account;
 use crate::bank_db::account::Account;
 use crate::bank_db::bank_account::BankAccount;
-use crate::bank_demo::user_ip;
+use crate::bank_cli_demo::user_ip;
 
 fn display_menu() {
     println!("Welcome to the Bank Demo!");
